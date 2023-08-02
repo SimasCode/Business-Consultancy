@@ -15,8 +15,16 @@ body {
 /* HEADER - START */
 .header-container {
   margin-top: 55px;
+  margin-bottom: 127px;
   display: flex;
   flex-direction: row;
+  justify-content: space-between;
 }
-/* HEADER - END */
+
+.main-menu {
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+  gap: 50px;
+}
 /* HEADER - END */
