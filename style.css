@@ -1,0 +1,21 @@
+/* COMMON STYLES - START */
+:root {
+  --primary-black: #191919;
+  --primary-blue: #3c4ba6;
+  --primary-white: #fff;
+}
+
+body {
+  max-width: 1440px;
+  padding-left: 147px;
+  padding-right: 147px;
+}
+/* COMMON STYLES - END */
+
+/* HEADER - START */
+.header-container {
+  margin-top: 55px;
+  display: flex;
+  flex-direction: row;
+}
+/* HEADER - END */
